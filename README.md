@@ -98,8 +98,7 @@ Extracts and structures data from websites for analysis or business use.
 If you’re looking to automate something or streamline a workflow, feel free to reach out.
 
 - GitHub: https://github.com/nitinfreak6  
-- (Add LinkedIn or portfolio here)
-
+- Linkedin: https://www.linkedin.com/in/nitin-kapoor-a5b46421/
 ---
 
 ## ⚡ Quick Note
