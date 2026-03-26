@@ -15,7 +15,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=nitinfreak6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)](https://github.com/nitinfreak6)
 
 </div>
-## 👋 Hi, I'm Nitin
+👋 Hi, I'm Nitin
 
 I build automation systems that eliminate repetitive work and save hours of manual effort.
 
