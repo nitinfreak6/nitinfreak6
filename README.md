@@ -15,122 +15,94 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=nitinfreak6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)](https://github.com/nitinfreak6)
 
 </div>
+## 👋 Hi, I'm Nitin
 
----
+I build automation systems that eliminate repetitive work and save hours of manual effort.
 
-## 👨‍💻 About Me
-
-```python
-class NitinKapoor:
-    def __init__(self):
-        self.name        = "Nitin Kapoor"
-        self.role        = "Multi-Channel eCommerce Integration Specialist | Shopify, ERP, CRMs"
-        self.location    = "India 🇮🇳"
-        self.focus       = ["Shopify Apps", "Full Stack Development", "API Integrations", "ERP", "CRM", ]
-        self.languages   = ["Python", "PHP", "JavaScript", "TypeScript"]
-        self.frameworks  = ["React", "Node.js", "Express"]
-        self.currently   = "Building powerful Shopify apps 🛒"
-        self.philosophy  = "Clean code, scalable architecture, real results"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great together.")
-
-me = NitinKapoor()
-me.say_hi()
-```
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### E-Commerce
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+I focus on creating practical solutions using Python, APIs, and browser automation — things that actually get used in real workflows.
 
 ---
 
 ## 🚀 What I Do
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   🛒  SHOPIFY APP DEVELOPMENT                                    │
-│       Custom apps · Theme development · API integrations         │
-│                                                                  │
-│   ⚙️  BACKEND ENGINEERING                                        │
-│       REST APIs · Node.js services · Python automation           │
-│                                                                  │
-│   🎨  FRONTEND DEVELOPMENT                                       │
-│       React applications · Responsive UI · Modern UX             │
-│                                                                  │
-│   🔧  FULL STACK SOLUTIONS                                       │
-│       End-to-end development · Scalable architecture             │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+- Automate repetitive tasks (web, Excel, internal tools)
+- Build bots using Selenium for real-world use cases
+- Develop data scraping and processing systems
+- Integrate APIs to connect platforms and workflows
+- Create scripts that turn manual work into one-click execution
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Where I Add Value
 
-<div align="center">
+If you’re dealing with:
+- Time-consuming manual processes  
+- Repetitive data entry or web tasks  
+- Need for scraping or structured data  
+- Multiple tools that don’t talk to each other  
 
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinfreak6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinfreak6&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitinfreak6&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
+I can automate it.
 
 ---
 
-## 🌱 Currently
+## 🧠 Tech Stack
 
-- 🔨 Building and maintaining **Shopify apps**
-- 📦 Working with **Shopify Polaris** and the **Admin API**
-- 🔗 Integrating third-party services with **Node.js** backends
-- ⚛️ Crafting clean **React** interfaces for merchant dashboards
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-Got a project in mind? Looking for a full stack developer with Shopify expertise?
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kapoor-a5b46421/)
-
-</div>
+- **Languages:** Python  
+- **Automation:** Selenium, scripting  
+- **APIs:** REST APIs, integrations  
+- **Data Handling:** CSV, JSON, data processing  
+- **Other:** Git, basic backend logic  
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-*"First, solve the problem. Then, write the code."*
+### 🔹 Job Search Automation Bot
+Automatically scans job platforms and sends relevant openings.
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+**Tech:** Python, Selenium  
 
-</div>
+---
+
+### 🔹 OTP Automation System
+Automates OTP sending via email/SMS with customizable workflows.
+
+**Tech:** Python, SMTP, APIs  
+
+---
+
+### 🔹 Web Automation Scripts
+Collection of scripts that automate browsing, form filling, and repetitive web actions.
+
+**Tech:** Python, Selenium  
+
+---
+
+### 🔹 Data Scraping Tools
+Extracts and structures data from websites for analysis or business use.
+
+**Tech:** Python, BeautifulSoup / Selenium  
+
+---
+
+## 📈 Currently Working On
+
+- Improving real-world automation use cases  
+- Building more structured and scalable automation tools  
+- Exploring AI-powered automation workflows  
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re looking to automate something or streamline a workflow, feel free to reach out.
+
+- GitHub: https://github.com/nitinfreak6  
+- (Add LinkedIn or portfolio here)
+
+---
+
+## ⚡ Quick Note
+
+Most of my work is focused on solving practical problems.  
+Clean code matters, but solving the problem efficiently matters more.
