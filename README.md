@@ -1,197 +1,127 @@
 <div align="center">
 
-```
-███╗   ██╗██╗████████╗██╗███╗   ██╗    ██╗  ██╗ █████╗ ██████╗  ██████╗  ██████╗ ██████╗ 
-████╗  ██║██║╚══██╔══╝██║████╗  ██║    ██║ ██╔╝██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗
-██╔██╗ ██║██║   ██║   ██║██╔██╗ ██║    █████╔╝ ███████║██████╔╝██║   ██║██║   ██║██████╔╝
-██║╚██╗██║██║   ██║   ██║██║╚██╗██║    ██╔═██╗ ██╔══██║██╔═══╝ ██║   ██║██║   ██║██╔══██╗
-██║ ╚████║██║   ██║   ██║██║ ╚████║    ██║  ██╗██║  ██║██║     ╚██████╔╝╚██████╔╝██║  ██║
-╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-```
+# Nitin Kapoor
 
-### Multi-Channel eCommerce Integration Specialist | Shopify, ERP, CRMs
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin%20Kapoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kapoor-a5b46421/)
-[![Profile Views](https://komarev.com/ghpvc/?username=nitinfreak6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)](https://github.com/nitinfreak6)
+### Multi-Channel Commerce Integration Specialist  
+**Shopify | ERP | Wholesale | Accounting | Marketplace Systems**
 
 </div>
-👋 Hi, I'm Nitin
-
-I help multi-channel eCommerce brands stabilize and scale their ERP, CRM, accounting, and payment integrations.
-
-I’ve worked with brands that use wholesale platforms like Faire and NuORDER. The biggest issue they face is that wholesale orders sit outside their core systems, which creates inventory conflicts and manual work.
-
-What I typically implement is a structured integration where wholesale orders flow directly into ERP, inventory is allocated in real-time, and financial data is mapped correctly. That allows wholesale and DTC to run on the same operational backbone.
-
-I work across **Shopify, Django, Laravel, Next.js**, and complex API ecosystems. My focus is not just building features — but designing structured systems that support growth. I integrate AI directly into business workflows where it creates measurable impact: inside backend logic, automation layers, and decision systems.
-
-### 🧰 Clients Typically Bring Me In For
-
-Clients usually reach out when their commerce operations start becoming difficult to manage across multiple systems.
-Common scenarios include:
-• Orders from Shopify, marketplaces, or wholesale platforms not syncing properly into ERP systems like Brightpearl
-• Inventory mismatches between DTC, wholesale (Faire / NuORDER), and warehouse systems
-• Manual entry of wholesale orders into ERP creating delays and errors
-• Accounting discrepancies between storefronts and systems like Xero or QuickBooks
-• Marketplace or wholesale payouts not reconciling correctly
-• Adding new sales channels and systems that don’t integrate cleanly
-• Operational breakdown during peak sales periods or bulk wholesale orders
-
-I work independently, communicate clearly, and take ownership from design to deployment. If your systems are fragmented, slow, or need intelligent automation — I can help.
 
 ---
 
+## 👋 About Me
+
+I help eCommerce and retail brands **stabilize and scale their operations** by connecting the systems that run their business.
+
+As companies grow across DTC, wholesale, and marketplaces, their operations become fragmented. Orders, inventory, fulfillment, and financial data end up spread across multiple platforms — leading to manual work, errors, and poor visibility.
+
+I design and implement **integration architecture** that connects these systems into a unified operational backbone.
+
+---
+
+## ⚙️ What I Do
+
+I work on connecting:
+
+- Storefronts (Shopify, custom platforms)  
+- ERP systems (Brightpearl and others)  
+- Wholesale platforms (Faire, NuORDER)  
+- Marketplaces (Amazon and others)  
+- Accounting systems (Xero, QuickBooks)  
+- Warehouses / 3PL providers  
+- CRM systems  
+
+The goal is simple:  
+👉 Ensure data flows correctly across systems so operations run smoothly.
+
+---
+
+## 🧰 Clients Typically Bring Me In For
+
+Clients typically reach out when their **commerce operations start breaking down across multiple systems**.
+
+### Common scenarios:
+
+- Orders not syncing properly between storefronts, wholesale platforms, and ERP  
+- Inventory mismatches between DTC, wholesale, and warehouse systems  
+- Manual entry of wholesale orders from Faire / NuORDER into ERP  
+- Accounting discrepancies between sales channels and systems like Xero or QuickBooks  
+- Marketplace or wholesale payouts not reconciling correctly  
+- Adding new sales channels that don’t integrate cleanly  
+- Operational issues during peak sales or bulk order cycles  
+
+---
+
+### 🔍 The Core Problem
+
+At this stage, the issue is rarely the tools —  
+it’s how those systems are connected.
+
+---
+
+## 🧠 How I Help
+
+I design **structured integration architecture** where:
+
+- Orders flow automatically across systems  
+- Inventory is synchronized in real-time  
+- Fulfillment updates propagate correctly  
+- Financial data is mapped accurately  
+
+---
+
+## 📈 Outcomes
+
+- Accurate inventory across all channels  
+- Reduced manual operational work  
+- Faster order processing  
+- Clean financial reporting  
+- Scalable infrastructure for growth  
+
+---
+
+## 🔗 Example Work
+
+- Wholesale automation using Faire and NuORDER  
+- ERP integrations with Brightpearl  
+- Shopify + accounting integrations (Xero / QuickBooks)  
+- Multi-channel inventory synchronization  
+- Custom middleware for complex workflows  
+
+---
 
 ## 🛠️ Tech Stack
 
-### eCommerce & CMS
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WordPress Plugin](https://img.shields.io/badge/WP_Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![MemberPress](https://img.shields.io/badge/MemberPress-0073AA?style=flat-square)
+**eCommerce & CMS**  
+Shopify, WooCommerce, WordPress  
 
-### Backend Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=flat-square)
-![Yii2](https://img.shields.io/badge/Yii2-0073BB?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+**Backend**  
+Laravel, Django, Node.js, PHP  
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+**Frontend**  
+React, Next.js, JavaScript  
 
-### Payments & Integrations
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
-![Braintree](https://img.shields.io/badge/Braintree-009CDE?style=flat-square)
-![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square)
-![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-E42527?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square)
+**Integrations & APIs**  
+REST APIs, Webhooks, Payment APIs  
 
-### AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Accounting & CRM**  
+Xero, QuickBooks, Zoho CRM  
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Cloud & DevOps**  
+Docker, Google Cloud, MySQL  
 
 ---
 
-## 🚀 Completed Projects
+## 🚀 Work With Me
 
-> Most of my work is delivered in private client environments. Below are representative projects from 15+ years of full-stack and eCommerce development.
+If your systems are:
 
----
+- Fragmented  
+- Not syncing properly  
+- Causing operational friction  
 
-### 🔗 QuickBooks Integration for Ledison
-
-
-Built a full QuickBooks Online API integration for Ledison, syncing invoices, payments, and customer records between their eCommerce platform and accounting system — eliminating double-entry and reducing reconciliation errors.
-
-`QuickBooks API` `PHP` `REST` `Accounting Sync` `Laravel`
+I can help you design a solution that scales.
 
 ---
 
-### 🧾 Custom CRM in Node.js and React
-
-Designed and developed a custom CRM from scratch using Node.js and React — featuring contact management, deal pipelines, activity tracking, and reporting dashboards tailored to client workflows.
-
-`Node.js` `React` `MySQL` `REST APIs` `Dashboard`
-
----
-
-### 💳 Braintree Plugin Development
-
-
-Built a bespoke Braintree payment integration as a WordPress plugin, handling tokenisation, recurring billing, dispute handling, and webhook events for a subscription-based platform.
-
-`Braintree` `WordPress Plugin` `PHP` `Webhooks` `Subscriptions`
-
----
-
-### 👨‍💻 Senior WordPress Developer — Long-Term Engagement 
-
-Extended senior developer role covering frontend and backend WordPress development — custom plugin development, API integrations, performance optimisation, and ongoing feature additions for a large-scale web platform.
-
-`WordPress` `PHP` `JavaScript` `REST APIs` `Custom Plugins`
-
----
-
-### 📊 Yii2 Web App Development 
-
-Delivered a scoped set of revisions and new functionality for an existing Yii2 application — including data layer updates, UI changes, and integration fixes.
-
-`Yii2` `PHP` `MySQL` `RESTful API`
-
----
-
-### 🏫 MemberPress Academy Setup 
-
-Configured and customised a full MemberPress installation for an online academy — including membership tiers, content access rules, payment gateway connection, and onboarding flows.
-
-`MemberPress` `WordPress` `PHP` `Stripe` `LMS`
-
----
-
-### 💰 QuickBooks Online API Assistance
-
-Provided hands-on QuickBooks Online API integration support — connecting a web application to QBO for real-time sync of transactions, accounts, and reporting data.
-
-`QuickBooks Online API` `PHP` `REST` `Accounting`
-
----
-
-### 🐾 Pet Care Platform — Booking System *(Multi-contract)*
-
-Developed and extended a booking platform for a pet services company — implementing 3, 6, and 12-month subscription plans and removing one-off booking options across web and mobile.
-
-`Laravel` `PHP` `Mobile API` `Subscription Logic` `Booking System`
-
----
-
-### 📈 Affiliate Tracking & Commission Engine
-
-Built a complete affiliate tracking and commission calculation engine — including click tracking, payout logic, tier-based commission rules, and AI-assisted anomaly detection to flag suspicious affiliate activity.
-
-`Python` `Django` `MySQL` `AI/ML` `Affiliate Systems`
-
----
-
-### 🛒 Multi-Channel eCommerce Integrations
-**ERP, CRM & Shopify sync across platforms**
-
-Architected and implemented integrations between Shopify storefronts and external ERP/CRM/accounting systems — enabling real-time inventory sync, order routing, and multi-warehouse fulfilment.
-
-`Shopify API` `Zoho CRM` `ERP Integration` `REST` `Webhooks` `Laravel`
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinfreak6&show_icons=true&hide_border=true&title_color=14a800&icon_color=14a800&text_color=333&bg_color=fff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nitinfreak6&hide_border=true&ring=14a800&fire=14a800&currStreakLabel=14a800)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinfreak6&bg_color=ffffff&color=14a800&line=14a800&point=096d1f&hide_border=true)
-
-</div>
-
-
-## 📫 Work With Me
-
-Available for Shopify integrations, ERP/CRM sync, backend architecture, and AI automation projects.
-
+📫 Reach out via LinkedIn or connect for collaboration.
