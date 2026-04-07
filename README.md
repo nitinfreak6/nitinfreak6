@@ -110,7 +110,7 @@ Xero, QuickBooks, Zoho CRM
 **Cloud & DevOps**  
 Docker, Google Cloud, MySQL  
 
----
+--- 
 
 ## 🚀 Work With Me
 
