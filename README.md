@@ -124,4 +124,4 @@ I can help you design a solution that scales.
 
 ---
 
-📫 Reach out via LinkedIn or connect for collaboration.
+📫 Reach out via <a href="https://www.linkedin.com/in/nitin-kapoor-a5b46421/">LinkedIn</a> or connect for collaboration.
