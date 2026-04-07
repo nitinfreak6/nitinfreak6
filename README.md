@@ -19,25 +19,23 @@
 
 I help multi-channel eCommerce brands stabilize and scale their ERP, CRM, accounting, and payment integrations.
 
+I’ve worked with brands that use wholesale platforms like Faire and NuORDER. The biggest issue they face is that wholesale orders sit outside their core systems, which creates inventory conflicts and manual work.
+
+What I typically implement is a structured integration where wholesale orders flow directly into ERP, inventory is allocated in real-time, and financial data is mapped correctly. That allows wholesale and DTC to run on the same operational backbone.
+
 I work across **Shopify, Django, Laravel, Next.js**, and complex API ecosystems. My focus is not just building features — but designing structured systems that support growth. I integrate AI directly into business workflows where it creates measurable impact: inside backend logic, automation layers, and decision systems.
 
-Over the years, I've worked on high-traffic online stores, SaaS platforms, and mobile app backends. I've built custom Shopify apps and WordPress plugins, implemented Stripe and PayPal payment systems, connected ERPs and CRMs, and developed affiliate tracking and commission calculation engines.
-
-### 🤖 AI-Driven Workflows I Design
-- Order risk scoring and fraud detection
-- Automated SEO and product content generation
-- Support ticket classification and summarization
-- Affiliate anomaly detection and audit logic
-- Structured AI outputs embedded into backend workflows
-
 ### 🧰 Clients Typically Bring Me In For
-- Custom Shopify apps and advanced integrations
-- ERP, CRM, and accounting sync logic
-- Stripe, PayPal, and Stripe Connect implementations
-- Affiliate and commission tracking systems
-- API architecture and third-party integrations
-- Backend performance optimization and debugging
-- AI automation embedded into existing platforms
+
+Clients usually reach out when their commerce operations start becoming difficult to manage across multiple systems.
+Common scenarios include:
+• Orders from Shopify, marketplaces, or wholesale platforms not syncing properly into ERP systems like Brightpearl
+• Inventory mismatches between DTC, wholesale (Faire / NuORDER), and warehouse systems
+• Manual entry of wholesale orders into ERP creating delays and errors
+• Accounting discrepancies between storefronts and systems like Xero or QuickBooks
+• Marketplace or wholesale payouts not reconciling correctly
+• Adding new sales channels and systems that don’t integrate cleanly
+• Operational breakdown during peak sales periods or bulk wholesale orders
 
 I work independently, communicate clearly, and take ownership from design to deployment. If your systems are fragmented, slow, or need intelligent automation — I can help.
 
