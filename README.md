@@ -3,7 +3,7 @@
 # Nitin Kapoor
 
 ### Multi-Channel Commerce Integration Specialist  
-**Shopify | ERP | Wholesale | Accounting | Marketplace Systems**
+**Shopify | ERP | Wholesale | Accounting | Marketplace Systems** 
 
 </div>
 
